@@ -22,7 +22,7 @@ SELECT
 
  GROUP BY CountryCode;
 
- Found city names beggining with 'Be'
+ # Found city names beggining with 'Be'
 <img width="1071" height="504" alt="Image" src="https://github.com/user-attachments/assets/339c39fc-a9af-4dbd-938b-d95f1565140e" />
 
 
