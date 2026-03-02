@@ -5,3 +5,19 @@
 
 # Finding all Countries in one Continent
 <img width="1085" height="518" alt="Image" src="https://github.com/user-attachments/assets/643b0563-3c48-42b0-8082-5293240401a0" />
+
+# Average city population
+<img width="1065" height="414" alt="Image" src="https://github.com/user-attachments/assets/501d8636-96f9-413e-888f-4963d8c60457" />
+## Query I used.
+SELECT 
+ 	country.Name,
+     CountryCode, 
+ 	AVG(city.Population) AS "Average City Population"
+
+ FROM city
+
+ JOIN country ON country.Code = city.CountryCode
+
+ GROUP BY CountryCode;
+
+ 
