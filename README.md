@@ -25,3 +25,6 @@ SELECT
  Found city names beggining with 'Be'
 <img width="1071" height="504" alt="Image" src="https://github.com/user-attachments/assets/339c39fc-a9af-4dbd-938b-d95f1565140e" />
 
+
+# Amount of times the city was mentioned.
+<img width="1073" height="517" alt="Image" src="https://github.com/user-attachments/assets/d259b58b-3626-4420-b3e3-e52d616253db" />
