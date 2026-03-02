@@ -8,7 +8,9 @@
 
 # Average city population
 <img width="1065" height="414" alt="Image" src="https://github.com/user-attachments/assets/501d8636-96f9-413e-888f-4963d8c60457" />
+
 ## Query I used.
+
 SELECT 
  	country.Name,
      CountryCode, 
@@ -20,4 +22,6 @@ SELECT
 
  GROUP BY CountryCode;
 
- 
+ Found city names beggining with 'Be'
+<img width="1071" height="504" alt="Image" src="https://github.com/user-attachments/assets/339c39fc-a9af-4dbd-938b-d95f1565140e" />
+
